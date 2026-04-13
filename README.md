@@ -1,2 +1,7 @@
 # frontendApps
-Repository will maintain frontend coding like html , css and JavaScript etc.
+
+Repository maintains frontend practice projects.
+
+## Included practice app
+
+- `ios-welcome-app`: Minimal SwiftUI "Welcome" iOS practice app.
